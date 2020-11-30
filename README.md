@@ -21,8 +21,11 @@ now install django here with
 
 >pip install django
 
+Database migration
+
 >python3 manage.py migrate 
 
+Run 
 >python3 manage.py runserver   
 
 
